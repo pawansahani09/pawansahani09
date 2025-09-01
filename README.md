@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **React.js, Node.js, and Cybersecurity**  
 - 💼 Building my own projects & contributing to open-source  
 - 🎯 Goal: Become a **Pro Developer & Ethical Hacker**  
-- 🏐 Fun fact: I love playing **Volleyball**  
+- 🎮 Fun fact: I love playing **BGMI**  
 
 ---
 
