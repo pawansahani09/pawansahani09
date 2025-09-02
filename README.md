@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Profile Banner -->
 <p align="center">
-  <img src="1.png" alt="Pawan Banner" width="100%" />
+  <img src="2.png" alt="Pawan Banner" width="100%" />
 </p>
 
 <!-- Typing Intro -->
