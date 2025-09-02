@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🚀 About Me  
-- 🌱 Currently learning **React.js, Node.js, and Cybersecurity**  
+- 🌱 Currently learning **React.js, Java Script, Python, Node.js, and Cybersecurity**  
 - 💼 Building my own projects & contributing to open-source  
 - 🎯 Goal: Become a **Pro Developer & Ethical Hacker**  
 - 🎮 Fun fact: I love playing **BGMI**  
